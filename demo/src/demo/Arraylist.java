@@ -22,6 +22,7 @@ public class Arraylist {
 			employee emp=it.next();
 			System.out.println(emp);
 		}
+		//for each
 		System.out.println("using for each");
 		for(employee e:empList)
 			System.out.println(e);
